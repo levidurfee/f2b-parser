@@ -1,12 +1,12 @@
 {
-  "name": "wappr/library-name",
+  "name": "levidurfee/f2b-parser",
   "description": "",
   "version": "0.1.0",
   "license": "MIT",
   "keywords": [""],
   "autoload": {
     "psr-4": {
-      "wappr\\": "src/"
+      "levidurfee\\": "src/"
     }
   },
   "require": {
